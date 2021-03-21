@@ -1,0 +1,900 @@
+Uri: https://smarthr.dreamguystech.com/dark/index.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\index.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/favicon.png
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/css/bootstrap.min.css
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/css/font-awesome.min.css
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/css/line-awesome.min.css
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/plugins/morris/morris.css
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\plugins\morris\morris.css
+Content Type: text/css
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/css/style.css
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\css\style.css
+Content Type: text/css
+
+Uri: https://smarthr.dreamguystech.com/dark/activities.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\activities.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/chat.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\chat.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/profile.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\profile.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/settings.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\settings.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/login.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\login.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/employee-dashboard.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\employee-dashboard.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/voice-call.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\voice-call.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/video-call.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\video-call.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/outgoing-call.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\outgoing-call.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/incoming-call.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\incoming-call.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/events.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\events.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/contacts.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\contacts.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/inbox.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\inbox.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/file-manager.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\file-manager.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/employees.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\employees.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/holidays.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\holidays.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/leaves.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\leaves.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/leaves-employee.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\leaves-employee.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/leave-settings.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\leave-settings.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/attendance.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\attendance.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/attendance-employee.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\attendance-employee.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/departments.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\departments.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/designations.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\designations.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/timesheet.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\timesheet.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/overtime.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\overtime.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/clients.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\clients.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/projects.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\projects.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/tasks.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\tasks.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/task-board.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\task-board.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/leads.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\leads.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/tickets.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\tickets.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/estimates.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\estimates.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/invoices.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\invoices.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/payments.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\payments.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/expenses.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\expenses.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/provident-fund.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\provident-fund.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/taxes.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\taxes.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/salary.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\salary.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/salary-view.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\salary-view.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/payroll-items.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\payroll-items.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/policies.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\policies.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/expense-reports.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\expense-reports.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/invoice-reports.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\invoice-reports.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/performance-indicator.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\performance-indicator.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/performance.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\performance.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/performance-appraisal.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\performance-appraisal.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/goal-tracking.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\goal-tracking.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/goal-type.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\goal-type.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/training.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\training.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/trainers.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\trainers.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/training-type.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\training-type.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/promotion.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\promotion.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/resignation.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\resignation.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/termination.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\termination.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/assets.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/jobs.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\jobs.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/job-applicants.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\job-applicants.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/knowledgebase.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\knowledgebase.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/users.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\users.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/client-profile.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\client-profile.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/register.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\register.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/forgot-password.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\forgot-password.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/otp.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\otp.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/lock-screen.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\lock-screen.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/error-404.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\error-404.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/error-500.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\error-500.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/subscriptions.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\subscriptions.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/subscriptions-company.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\subscriptions-company.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/subscribed-companies.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\subscribed-companies.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/search.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\search.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/faq.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\faq.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/terms.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\terms.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/privacy-policy.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\privacy-policy.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/blank-page.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\blank-page.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/components.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\components.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/form-basic-inputs.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\form-basic-inputs.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/form-input-groups.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\form-input-groups.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/form-horizontal.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\form-horizontal.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/form-vertical.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\form-vertical.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/form-mask.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\form-mask.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/form-validation.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\form-validation.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/tables-basic.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\tables-basic.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/data-tables.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\data-tables.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/invoice-view.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\invoice-view.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/project-view.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\project-view.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/logo.png
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/flags/us.png
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\flags\us.png
+Content Type: image/png
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/flags/fr.png
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\flags\fr.png
+Content Type: image/png
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/flags/es.png
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\flags\es.png
+Content Type: image/png
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/flags/de.png
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\flags\de.png
+Content Type: image/png
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-02.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-02.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-03.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-03.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-06.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-06.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-17.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-17.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-13.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-13.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-09.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-09.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-05.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-05.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-08.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-08.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-21.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-21.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/user.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\user.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-19.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-19.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-07.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-07.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-14.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-14.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/jquery-3.5.1.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/popper.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/bootstrap.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/jquery.slimscroll.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\jquery.slimscroll.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/plugins/morris/morris.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\plugins\morris\morris.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/plugins/raphael/raphael.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\plugins\raphael\raphael.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/chart.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\chart.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/app.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-brands-400.eot
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-brands-400.eot?
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-brands-400.woff2
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-brands-400.woff2
+Content Type: 
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-brands-400.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-brands-400.ttf
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-brands-400.svg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-regular-400.eot
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-regular-400.eot?
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-regular-400.woff2
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-regular-400.woff2
+Content Type: 
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-regular-400.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-regular-400.ttf
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-regular-400.svg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-solid-900.eot
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-solid-900.eot?
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-solid-900.woff2
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-solid-900.woff2
+Content Type: 
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-solid-900.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-solid-900.ttf
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/la-solid-900.svg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/MaterialIcons-Regular.eot
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\MaterialIcons-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/MaterialIcons-Regular.woff2
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\MaterialIcons-Regular.woff2
+Content Type: 
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/MaterialIcons-Regular.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\MaterialIcons-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/MaterialIcons-Regular.ttf
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\MaterialIcons-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/CircularStd-Book.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\CircularStd-Book.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/CircularStd-BookItalic.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\CircularStd-BookItalic.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/CircularStd-Medium.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\CircularStd-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/CircularStd-MediumItalic.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\CircularStd-MediumItalic.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/CircularStd-Bold.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\CircularStd-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/CircularStd-BoldItalic.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\CircularStd-BoldItalic.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/CircularStd-Black.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\CircularStd-Black.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/fonts/CircularStd-BlackItalic.woff
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\fonts\CircularStd-BlackItalic.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-01.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-01.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-16.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-16.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-10.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-10.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/placeholder.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\placeholder.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/attachment.png
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\attachment.png
+Content Type: image/png
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/dropfiles.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\dropfiles.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/css/select2.min.css
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\css\select2.min.css
+Content Type: text/css
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/css/bootstrap-datetimepicker.min.css
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\css\bootstrap-datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/plugins/bootstrap-tagsinput/bootstrap-tagsinput.css
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\plugins\bootstrap-tagsinput\bootstrap-tagsinput.css
+Content Type: text/css
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/select2.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/moment.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\moment.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/bootstrap-datetimepicker.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\bootstrap-datetimepicker.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/plugins/bootstrap-tagsinput/bootstrap-tagsinput.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\plugins\bootstrap-tagsinput\bootstrap-tagsinput.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/localization.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\localization.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/theme-settings.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\theme-settings.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/roles-permissions.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\roles-permissions.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/email-settings.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\email-settings.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/invoice-settings.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\invoice-settings.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/salary-settings.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\salary-settings.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/notifications-settings.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\notifications-settings.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/change-password.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\change-password.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/leave-type.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\leave-type.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/job-list.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\job-list.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-04.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-04.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/video-call.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\video-call.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-11.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-11.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/css/fullcalendar.min.css
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\css\fullcalendar.min.css
+Content Type: text/css
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/jquery-ui.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/fullcalendar.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\fullcalendar.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/jquery.fullcalendar.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\jquery.fullcalendar.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-12.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-12.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/compose.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\compose.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/employees-list.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\employees-list.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/css/dataTables.bootstrap4.min.css
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\css\dataTables.bootstrap4.min.css
+Content Type: text/css
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-24.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-24.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-15.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-15.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-20.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-20.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-25.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-25.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/jquery.dataTables.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/dataTables.bootstrap4.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\dataTables.bootstrap4.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/multiselect.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\multiselect.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/clients-list.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\clients-list.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-29.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-29.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-18.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-18.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-28.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-28.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/plugins/summernote/dist/summernote-bs4.css
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\plugins\summernote\dist\summernote-bs4.css
+Content Type: text/css
+
+Uri: https://smarthr.dreamguystech.com/dark/project-list.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\project-list.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/plugins/summernote/dist/summernote-bs4.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\plugins\summernote\dist\summernote-bs4.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-26.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-26.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/task.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\task.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/jquery.ui.touch-punch.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\jquery.ui.touch-punch.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/ticket-view.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\ticket-view.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/create-estimate.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\create-estimate.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/estimate-view.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\estimate-view.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/edit-estimate.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\edit-estimate.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/create-invoice.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\create-invoice.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/edit-invoice.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\edit-invoice.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/job-details.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\job-details.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/knowledgebase-view.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\knowledgebase-view.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/img-01.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\img-01.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/plugins/sticky-kit-master/dist/sticky-kit.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\plugins\sticky-kit-master\dist\sticky-kit.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/jquery.maskedinput.min.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/js/mask.js
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\js\mask.js
+Content Type: application/javascript
+
+Uri: https://getbootstrap.com/docs/4.1/components/forms/
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\docs\4.1\components\forms\index.htm
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/logo3.png
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\logo3.png
+Content Type: image/png
+
+Uri: https://smarthr.dreamguystech.com/dark/job-view.html
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\job-view.html
+Content Type: text/html
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/img/profiles/avatar-22.jpg
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\img\profiles\avatar-22.jpg
+Content Type: image/jpeg
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/plugins/summernote/dist/font/summernote.eot?4c7e83314b68cfa6a0d18a8b4690044b
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\plugins\summernote\dist\font\summernote.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/plugins/summernote/dist/font/summernote.woff?4c7e83314b68cfa6a0d18a8b4690044b
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\plugins\summernote\dist\font\summernote.woff
+Content Type: application/font-woff
+
+Uri: https://smarthr.dreamguystech.com/dark/assets/plugins/summernote/dist/font/summernote.ttf?4c7e83314b68cfa6a0d18a8b4690044b
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\dark\assets\plugins\summernote\dist\font\summernote.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.example.com/
+File Name: C:\My Web Sites\new dts\smarthr.dreamguystech.com\index.htm
+Content Type: text/html
+
